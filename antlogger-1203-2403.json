@@ -1,0 +1,391 @@
+{
+  "consolidacion_desde": "12/03/2026",
+  "consolidacion_hasta": "24/03/2026",
+  "dias": [
+    {
+      "fecha": "12/03/2026",
+      "registros_horarios": [
+        {
+          "hora": "07:45",
+          "actividad_exterior": 1,
+          "zona": "zona izquierda",
+          "evento": "exploracion",
+          "detalle": "Exploración con escalada en pared de metacrilato.",
+          "tipo_actividad": "exploracion"
+        },
+        {
+          "hora": "13:30",
+          "actividad_exterior": 1,
+          "zona": "acceso tubo forrajeo",
+          "evento": "inspeccion",
+          "detalle": "Revisión repetida del acceso al tubo y retorno al nido.",
+          "tipo_actividad": "exploracion"
+        },
+        {
+          "hora": "17:15",
+          "actividad_exterior": 0,
+          "zona": "rampa izquierda",
+          "evento": "exploracion",
+          "detalle": "Exploración breve interior.",
+          "tipo_actividad": "exploracion"
+        },
+        {
+          "hora": "22:40",
+          "actividad_exterior": 1,
+          "zona": "zona tubo forrajeo",
+          "evento": "inspeccion",
+          "detalle": "Salida parcialmente cubierta.",
+          "tipo_actividad": "exploracion"
+        }
+      ]
+    },
+    {
+      "fecha": "13/03/2026",
+      "registros_horarios": [
+        {
+          "hora": "13:25",
+          "actividad_exterior": 1,
+          "zona": "tubo forrajeo",
+          "evento": "exploracion",
+          "detalle": "Dos obreras exploran el tubo.",
+          "tipo_actividad": "exploracion"
+        },
+        {
+          "hora": "15:25",
+          "actividad_exterior": 1,
+          "zona": "salida tubo",
+          "evento": "inspeccion",
+          "detalle": "Primera salida al forrajeo.",
+          "tipo_actividad": "exploracion"
+        },
+        {
+          "hora": "15:30",
+          "actividad_exterior": 1,
+          "zona": "zona forrajeo",
+          "evento": "exploracion",
+          "detalle": "Primera exploración directa.",
+          "tipo_actividad": "exploracion"
+        },
+        {
+          "hora": "16:00",
+          "actividad_exterior": 1,
+          "zona": "zona forrajeo",
+          "evento": "retorno",
+          "detalle": "Regreso al nido.",
+          "tipo_actividad": "exploracion"
+        },
+        {
+          "hora": "17:30",
+          "actividad_exterior": 0,
+          "zona": "zona forrajeo",
+          "evento": "cese",
+          "detalle": "Sin actividad.",
+          "tipo_actividad": "patrulla"
+        },
+        {
+          "hora": "18:20",
+          "actividad_exterior": 1,
+          "zona": "zona forrajeo",
+          "evento": "exploracion",
+          "detalle": "Segunda bajada.",
+          "tipo_actividad": "exploracion"
+        },
+        {
+          "hora": "18:45",
+          "actividad_exterior": 1,
+          "zona": "tubo forrajeo",
+          "evento": "transporte",
+          "detalle": "Transporte de proteína.",
+          "tipo_actividad": "transporte"
+        },
+        {
+          "hora": "19:50",
+          "actividad_exterior": 0,
+          "zona": "zona forrajeo",
+          "evento": "retirada",
+          "detalle": "Proteína ya trasladada.",
+          "tipo_actividad": "transporte"
+        },
+        {
+          "hora": "20:15",
+          "actividad_exterior": 1,
+          "zona": "tubo forrajeo",
+          "evento": "transporte",
+          "detalle": "Depósito inicial de semillas.",
+          "tipo_actividad": "transporte"
+        },
+        {
+          "hora": "23:55",
+          "actividad_exterior": 1,
+          "zona": "tubo forrajeo",
+          "evento": "transporte",
+          "detalle": "Movimiento de alimento al nido.",
+          "tipo_actividad": "transporte"
+        }
+      ]
+    },
+    {
+      "fecha": "14/03/2026",
+      "registros_horarios": [
+        {
+          "hora": "08:30",
+          "actividad_exterior": 0,
+          "zona": "zona forrajeo",
+          "evento": "estado",
+          "detalle": "Sin actividad, proteína retirada.",
+          "tipo_actividad": "patrulla"
+        },
+        {
+          "hora": "14:40",
+          "actividad_exterior": 1,
+          "zona": "entrada izquierda",
+          "evento": "inspeccion",
+          "detalle": "Revisión tranquila.",
+          "tipo_actividad": "exploracion"
+        },
+        {
+          "hora": "17:00-18:14",
+          "actividad_exterior": 1,
+          "zona": "tubo forrajeo",
+          "evento": "transporte",
+          "detalle": "Recogida de proteína y semillas.",
+          "tipo_actividad": "transporte"
+        },
+        {
+          "hora": "21:30",
+          "actividad_exterior": 1,
+          "zona": "zona forrajeo",
+          "evento": "reposicion",
+          "detalle": "Añadida proteína y semillas.",
+          "tipo_actividad": "mantenimiento"
+        }
+      ]
+    },
+    {
+      "fecha": "15/03/2026",
+      "registros_horarios": [
+        {
+          "hora": "00:00-07:30",
+          "actividad_exterior": 1,
+          "zona": "zona forrajeo",
+          "evento": "retirada",
+          "detalle": "Forrajeo limpiado completamente.",
+          "tipo_actividad": "transporte"
+        },
+        {
+          "hora": "19:30",
+          "actividad_exterior": 1,
+          "zona": "zona forrajeo",
+          "evento": "reposicion",
+          "detalle": "Proteína y semillas.",
+          "tipo_actividad": "mantenimiento"
+        },
+        {
+          "hora": "21:00",
+          "actividad_exterior": 1,
+          "zona": "zona forrajeo",
+          "evento": "baja actividad",
+          "detalle": "Salidas puntuales.",
+          "tipo_actividad": "patrulla"
+        },
+        {
+          "hora": "22:30",
+          "actividad_exterior": 1,
+          "zona": "tubo forrajeo",
+          "evento": "transporte",
+          "detalle": "Movimiento de alimento.",
+          "tipo_actividad": "transporte"
+        }
+      ]
+    },
+    {
+      "fecha": "16/03/2026",
+      "registros_horarios": [
+        {
+          "hora": "07:30",
+          "actividad_exterior": 1,
+          "zona": "zona forrajeo",
+          "evento": "fin forrajeo",
+          "detalle": "Final actividad nocturna.",
+          "tipo_actividad": "transporte"
+        },
+        {
+          "hora": "08:30",
+          "actividad_exterior": 1,
+          "zona": "tubo forrajeo",
+          "evento": "transporte",
+          "detalle": "Retirada de alimento.",
+          "tipo_actividad": "transporte"
+        },
+        {
+          "hora": "09:55",
+          "actividad_exterior": 1,
+          "zona": "zona forrajeo",
+          "evento": "recogida",
+          "detalle": "Recogida de proteína.",
+          "tipo_actividad": "transporte"
+        },
+        {
+          "hora": "23:46",
+          "actividad_exterior": 0,
+          "zona": "zona forrajeo",
+          "evento": "cese",
+          "detalle": "Sin actividad.",
+          "tipo_actividad": "patrulla"
+        }
+      ]
+    },
+    {
+      "fecha": "17/03/2026",
+      "registros_horarios": [
+        {
+          "hora": "",
+          "actividad_exterior": 1,
+          "zona": "tubo forrajeo",
+          "evento": "cambio patron",
+          "detalle": "Ignoran recursos del tubo.",
+          "tipo_actividad": "exploracion"
+        }
+      ]
+    },
+    {
+      "fecha": "18/03/2026",
+      "registros_horarios": [
+        {
+          "hora": "07:30",
+          "actividad_exterior": 1,
+          "zona": "tubo forrajeo",
+          "evento": "deposito arena",
+          "detalle": "Arena en final del tubo.",
+          "tipo_actividad": "excavacion"
+        },
+        {
+          "hora": "21:30",
+          "actividad_exterior": 1,
+          "zona": "zona forrajeo",
+          "evento": "cambio modulo",
+          "detalle": "Nueva zona con rampas suaves.",
+          "tipo_actividad": "mantenimiento"
+        },
+        {
+          "hora": "22:30",
+          "actividad_exterior": 1,
+          "zona": "tubo forrajeo",
+          "evento": "actividad mixta",
+          "detalle": "Exploración y transporte de arena.",
+          "tipo_actividad": "excavacion"
+        }
+      ]
+    },
+    {
+      "fecha": "19/03/2026",
+      "registros_horarios": [
+        {
+          "hora": "00:00-23:30",
+          "actividad_exterior": 1,
+          "zona": "tubo forrajeo",
+          "evento": "actividad continua",
+          "detalle": "Reorganización constante.",
+          "tipo_actividad": "transporte"
+        }
+      ]
+    },
+    {
+      "fecha": "20/03/2026",
+      "registros_horarios": [
+        {
+          "hora": "07:30",
+          "actividad_exterior": 1,
+          "zona": "tubo forrajeo",
+          "evento": "limpieza",
+          "detalle": "Expulsión de residuos.",
+          "tipo_actividad": "limpieza"
+        },
+        {
+          "hora": "11:00",
+          "actividad_exterior": 0,
+          "zona": "zona forrajeo",
+          "evento": "cese",
+          "detalle": "Fin actividad.",
+          "tipo_actividad": "patrulla"
+        }
+      ]
+    },
+    {
+      "fecha": "21/03/2026",
+      "registros_horarios": [
+        {
+          "hora": "15:30",
+          "actividad_exterior": 1,
+          "zona": "zona forrajeo",
+          "evento": "reposicion",
+          "detalle": "2 gammarus.",
+          "tipo_actividad": "mantenimiento"
+        },
+        {
+          "hora": "17:00",
+          "actividad_exterior": 1,
+          "zona": "tubo forrajeo",
+          "evento": "retirada",
+          "detalle": "Proteína al nido.",
+          "tipo_actividad": "transporte"
+        },
+        {
+          "hora": "19:20",
+          "actividad_exterior": 1,
+          "zona": "tubo forrajeo",
+          "evento": "recogida",
+          "detalle": "Restos recogidos.",
+          "tipo_actividad": "transporte"
+        }
+      ]
+    },
+    {
+      "fecha": "22/03/2026",
+      "registros_horarios": [
+        {
+          "hora": "09:00",
+          "actividad_exterior": 0,
+          "zona": "tubo forrajeo",
+          "evento": "estado estable",
+          "detalle": "Sin cambios.",
+          "tipo_actividad": "patrulla"
+        }
+      ]
+    },
+    {
+      "fecha": "23/03/2026",
+      "registros_horarios": [
+        {
+          "hora": "07:30",
+          "actividad_exterior": 1,
+          "zona": "tubo forrajeo",
+          "evento": "limpieza",
+          "detalle": "Bajada de residuos.",
+          "tipo_actividad": "limpieza"
+        },
+        {
+          "hora": "23:07",
+          "actividad_exterior": 1,
+          "zona": "tubo forrajeo",
+          "evento": "coordinacion",
+          "detalle": "Interacción y transporte.",
+          "tipo_actividad": "transporte"
+        }
+      ]
+    },
+    {
+      "fecha": "24/03/2026",
+      "registros_horarios": [
+        {
+          "hora": "08:45",
+          "actividad_exterior": 1,
+          "zona": "tubo forrajeo superior",
+          "evento": "inspeccion",
+          "detalle": "Revisión y marcaje.",
+          "tipo_actividad": "exploracion"
+        }
+      ]
+    }
+  ]
+}
